@@ -1,5 +1,5 @@
 def saludar(nombre):
-    print(f"Hola, {nombre}!")
+    print(f"¡Buen día, {nombre}!")
 
 def despedir(nombre):
     print(f"Chau, {nombre}!")
@@ -7,4 +7,3 @@ def despedir(nombre):
 if __name__ == "__main__":
     saludar("Mundo")
     despedir("Mundo")
-
