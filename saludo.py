@@ -2,7 +2,7 @@ def saludar(nombre):
     print(f"¡Hola y buen día, {nombre}!")
 
 def despedir(nombre):
-    print(f"Adios, {nombre}!")
+    print(f"Hasta Luego, {nombre}!")
 
 if __name__ == "__main__":
     saludar("Mundo")
